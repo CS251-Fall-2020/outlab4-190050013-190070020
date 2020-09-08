@@ -1,0 +1,15 @@
+https://chartio.com/resources/tutorials/how-to-save-a-plot-to-a-file-using-matplotlib/
+https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+https://stackoverflow.com/questions/43024745/applying-a-function-along-a-numpy-array
+https://matplotlib.org/3.2.1/api/_as_gen/matplotlib.pyplot.plot.html
+https://numpy.org/doc/stable/reference/generated/numpy.exp.html
+https://numpy.org/doc/stable/reference/generated/numpy.meshgrid.html
+https://matplotlib.org/mpl_toolkits/mplot3d/tutorial.html
+https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.xlabel.html
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.ylabel.html
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.title.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.misc.derivative.html
+https://matplotlib.org/2.0.2/examples/mplot3d/text3d_demo.html
+https://stackoverflow.com/questions/60150031/how-to-display-latex-f-strings-in-matplotlib
+https://www.geeksforgeeks.org/python-how-to-get-function-name/
+https://matplotlib.org/3.3.1/api/_as_gen/matplotlib.pyplot.clf.html
