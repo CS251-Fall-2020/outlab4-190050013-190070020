@@ -13,3 +13,10 @@ https://matplotlib.org/2.0.2/examples/mplot3d/text3d_demo.html
 https://stackoverflow.com/questions/60150031/how-to-display-latex-f-strings-in-matplotlib
 https://www.geeksforgeeks.org/python-how-to-get-function-name/
 https://matplotlib.org/3.3.1/api/_as_gen/matplotlib.pyplot.clf.html
+https://stackoverflow.com/questions/7762948/how-to-convert-an-rgb-image-to-numpy-array
+https://www.tutorialspoint.com/scipy/scipy_cluster.htm
+https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.cluster.vq.kmeans2.html
+https://stackoverflow.com/questions/9912647/python-numpy-save-array-with-column-and-row-titles
+https://stackoverflow.com/questions/20306608/save-a-numpy-array-to-csv-with-a-string-header
+https://stackoverflow.com/questions/9777783/suppress-scientific-notation-in-numpy-when-creating-array-from-nested-list
+https://www.geeksforgeeks.org/reading-csv-files-in-python/?ref=lbp
