@@ -20,3 +20,5 @@ https://stackoverflow.com/questions/9912647/python-numpy-save-array-with-column-
 https://stackoverflow.com/questions/20306608/save-a-numpy-array-to-csv-with-a-string-header
 https://stackoverflow.com/questions/9777783/suppress-scientific-notation-in-numpy-when-creating-array-from-nested-list
 https://www.geeksforgeeks.org/reading-csv-files-in-python/?ref=lbp
+https://stackoverflow.com/questions/35371043/use-python-requests-to-download-csv
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
