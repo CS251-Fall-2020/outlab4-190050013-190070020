@@ -22,3 +22,7 @@ https://stackoverflow.com/questions/9777783/suppress-scientific-notation-in-nump
 https://www.geeksforgeeks.org/reading-csv-files-in-python/?ref=lbp
 https://stackoverflow.com/questions/35371043/use-python-requests-to-download-csv
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+https://www.geeksforgeeks.org/pandas-groupby/
+https://stackoverflow.com/questions/19125722/adding-a-legend-to-pyplot-in-matplotlib-in-the-simplest-manner-possible
+https://jakevdp.github.io/PythonDataScienceHandbook/04.06-customizing-legends.html
+https://www.geeksforgeeks.org/python-matplotlib-pyplot-ticks/?ref=lbp
