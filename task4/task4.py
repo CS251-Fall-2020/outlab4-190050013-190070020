@@ -83,7 +83,7 @@ def sinc(x,y):
 
 
 if __name__ == '__main__':
-    #fn_plot1d(b,-2,2,'fn1plot.png')
-    #fn_plot2d(sinc, -1.5*np.pi, 1.5*np.pi, -1.5*np.pi, 1.5*np.pi, 'fn2plot.png')
-    #nth_derivative_plotter(b, 1, -2, 2, 'bd_1.png')
-    #nth_derivative_plotter(b, 2, -2, 2, 'bd_2.png')
+    fn_plot1d(b,-2,2,'fn1plot.png')
+    fn_plot2d(sinc, -1.5*np.pi, 1.5*np.pi, -1.5*np.pi, 1.5*np.pi, 'fn2plot.png')
+    nth_derivative_plotter(b, 1, -2, 2, 'bd_1.png')
+    nth_derivative_plotter(b, 2, -2, 2, 'bd_2.png')
