@@ -8,8 +8,8 @@ stds = np.std(data, axis = 0)
 means = [format(round(x,3),'.3f') for x in means]
 stds = [format(round(x,4),'.3f') for x in stds]
 
-print('Field     Mean      Std.Dev.')
-print('Tests    ', means[0], stds[0])
-print('Infected ', means[1], ' '+stds[1])
-print('Recovered', means[2], '  '+stds[2])
-print('Deceased ', means[3], '   '+stds[3])
+print('{:<11} {:<13} {:<12}'.format("Field", "Mean", "Std. Dev"))
+print('{:<11} {:<13} {:<12}'.format("Tests", str(means[0]), str(stds[0])))
+print('{:<11} {:<13} {:<12}'.format("Infected", str(means[1]), str(stds[1])))
+print('{:<11} {:<13} {:<12}'.format("Recovered", str(means[2]), str(stds[2])))
+print('{:<11} {:<13} {:<12}'.format("Deceased", str(means[3]), str(stds[3])))

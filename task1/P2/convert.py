@@ -13,14 +13,12 @@ for i in range(tpr.size):
 tpm = data[:,0]/(20.4)
 tpm = tpm.astype(np.int32)
 
-data[:,0] = tpm
-data[:,1] = tpr
-
+data = np.int32(data)
 fields = ['Day', 'Tests per Million', 'Test Positivity rate', 'Recovered', 'Deceased']
 filename = "transformed.csv"
 
 with open(filename, 'w') as csvfile:  
 	csvwriter = csv.writer(csvfile)  
 	csvwriter.writerow(fields)      
-	for row_title, data_row in zip(row_headers, data):
-		csvwriter.writerow([row_title] + data_row.tolist())
+	for row_title, tm, tr, data_row in zip(row_headers, tpm, tpr, data[:,2:]):
+		csvwriter.writerow([row_title] + [tm] + [tr] + data_row.tolist())
