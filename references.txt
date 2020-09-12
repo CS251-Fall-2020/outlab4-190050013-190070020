@@ -26,3 +26,5 @@ https://www.geeksforgeeks.org/pandas-groupby/
 https://stackoverflow.com/questions/19125722/adding-a-legend-to-pyplot-in-matplotlib-in-the-simplest-manner-possible
 https://jakevdp.github.io/PythonDataScienceHandbook/04.06-customizing-legends.html
 https://www.geeksforgeeks.org/python-matplotlib-pyplot-ticks/?ref=lbp
+https://matplotlib.org/3.1.0/api/_as_gen/matplotlib.pyplot.scatter.html
+https://matplotlib.org/3.1.0/api/markers_api.html#module-matplotlib.markers
